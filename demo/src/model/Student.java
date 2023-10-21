@@ -1,5 +1,6 @@
 package model;
 
 public class Student {
- int rollno;
+int rollno;
+
 }
